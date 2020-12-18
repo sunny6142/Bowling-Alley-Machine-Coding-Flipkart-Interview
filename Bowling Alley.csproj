@@ -6,8 +6,4 @@
     <RootNamespace>Bowling_Alley</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Enum\" />
-  </ItemGroup>
-
 </Project>
